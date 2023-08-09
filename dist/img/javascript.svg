@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.5in" height="11in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8500 11000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#3F3FFF;stroke-width:6.94;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61313}
+    .fil0 {fill:#3F3FFF;fill-rule:nonzero}
+    .fil2 {fill:#EBEBEB;fill-rule:nonzero}
+    .fil1 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="4763.13,4924.53 3046.65,4924.53 3207.57,6669.52 3904.81,6867.27 4602.04,6669.52 " data-name="Path 275"/>
+  <polygon class="fil0 str0" points="3904.8,5066.69 3904.8,6719.4 4469.72,6559.35 4607.15,5066.69 " data-name="Path 276"/>
+  <polygon class="fil1" points="4354.23,5280.77 3485.63,5280.77 3425.14,5934.04 3426.39,5929.98 4164.3,5929.98 4140.27,6206.39 3904.82,6274.11 3665.91,6205.3 3651.6,6038 3434.72,6038 3465.67,6372.28 3904.82,6496.95 4344.18,6372.28 4404.68,5716.12 3621.53,5716.13 3631.58,5497.51 4174.94,5497.51 4183.07,5622.78 4401.78,5622.76 " data-name="Path 277"/>
+  <path class="fil2" d="M3905 5280.77l-419.36 0 -60.5 653.28 1.25 -4.06 478.59 0 0 -213.11 -252.9 0 10.05 -218.61 242.87 0 0 -217.49zm-252.92 757.35l-217.37 0 30.94 334.11 439.16 124.54 -0.01 -222.33 -238.91 -69 -13.81 -167.31z" data-name="Path 278"/>
+  <path class="fil0 str0" d="M3737.9 4667.15l-152.81 0 0 109.7 262.19 0 0 -325.81 -109.24 0 -0.13 216.11zm486.72 -214.35l-266.38 0 0 114.05c35.57,35.57 54.12,52.68 106.51,104.2l-106.51 0 0 104 266.35 0 0 -103.83 -106.4 -104.2 106.52 0 -0.09 -114.22z" data-name="Path 279"/>
+ </g>
+</svg>
